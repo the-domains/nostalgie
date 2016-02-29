@@ -4,8 +4,15 @@
         <description><![CDATA[Nostalgie]]></description>
         <link>https://thegrid.ai/nostalgie/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 29 Feb 2016 14:04:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Feb 2016 14:04:58 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/nostalgie/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://teeninfonet.files.wordpress.com/2013/12/nylon-joejonas-1719.jpg">]]></description>
+            <link>https://thegrid.ai/nostalgie/610709c4-8847-4cb4-9954-ceabef9260dd/index.html</link>
+            <guid isPermaLink="false">610709c4-8847-4cb4-9954-ceabef9260dd</guid>
+            <pubDate>Mon, 29 Feb 2016 14:04:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="http://3.bp.blogspot.com/-gle-bNU_G1k/VZJurMAROqI/AAAAAAAAFhY/hE5gyobaBgI/s1600/a1africaoye17p.jpg">]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<img src="http://www.piazzadellenotizie.it/wp-content/uploads/2012/01/William-Burroughs-9-Rue-G-by-brian-duffy.jpg">]]></description>
             <link>https://thegrid.ai/nostalgie/bdc9c575-6476-4d3b-aaa6-e0ee65ccddb5/index.html</link>
             <guid isPermaLink="false">bdc9c575-6476-4d3b-aaa6-e0ee65ccddb5</guid>
-            <pubDate>Mon, 29 Feb 2016 13:52:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="http://4.bp.blogspot.com/-c2nIECl2654/VdUaATlw32I/AAAAAAABgaE/UkGvdR_GGnM/s1600/mad-men.jpg">]]></description>
-            <link>https://thegrid.ai/nostalgie/81980b97-5e52-4d38-ae3d-3feb23591c1c/index.html</link>
-            <guid isPermaLink="false">81980b97-5e52-4d38-ae3d-3feb23591c1c</guid>
             <pubDate>Mon, 29 Feb 2016 13:52:35 GMT</pubDate>
         </item>
     </channel>
