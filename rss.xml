@@ -4,8 +4,15 @@
         <description><![CDATA[Nostalgie]]></description>
         <link>https://thegrid.ai/nostalgie/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 29 Feb 2016 13:53:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Feb 2016 13:53:37 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/nostalgie/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://www.mywhere.it/wp-content/uploads//2015/05/Photographer-Brian-Duffy-caine.jpg">]]></description>
+            <link>https://thegrid.ai/nostalgie/3692690b-d789-48f1-b25f-07debbeb305e/index.html</link>
+            <guid isPermaLink="false">3692690b-d789-48f1-b25f-07debbeb305e</guid>
+            <pubDate>Mon, 29 Feb 2016 13:52:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="http://www.piazzadellenotizie.it/wp-content/uploads/2012/01/William-Burroughs-9-Rue-G-by-brian-duffy.jpg">]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<img src="http://media.male-extravaganza.com/wp-content/uploads/2014/05/aa2f37752f2acedc3bc756e0c671e52a.jpg">]]></description>
             <link>https://thegrid.ai/nostalgie/2ad314b3-cfae-4c1d-acd7-795ab5bdfcf6/index.html</link>
             <guid isPermaLink="false">2ad314b3-cfae-4c1d-acd7-795ab5bdfcf6</guid>
-            <pubDate>Mon, 29 Feb 2016 13:42:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="http://s.mlkshk-cdn.com/r/GMCA">]]></description>
-            <link>https://thegrid.ai/nostalgie/722db18c-ef40-419d-9083-79fd6e274e28/index.html</link>
-            <guid isPermaLink="false">722db18c-ef40-419d-9083-79fd6e274e28</guid>
             <pubDate>Mon, 29 Feb 2016 13:42:03 GMT</pubDate>
         </item>
     </channel>
