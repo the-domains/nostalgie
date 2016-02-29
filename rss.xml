@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Nostalgie]]></title>
         <description><![CDATA[Nostalgie]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/nostalgie/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 29 Feb 2016 13:28:14 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 29 Feb 2016 13:29:30 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/nostalgie/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://s-media-cache-ak0.pinimg.com/236x/4c/6c/1b/4c6c1b4d25457b18e6e7d06fb65e17d5.jpg">]]></description>
+            <link>https://thegrid.ai/nostalgie/33cd6f26-ebc1-46a9-9d40-545ef8de2408/index.html</link>
+            <guid isPermaLink="false">33cd6f26-ebc1-46a9-9d40-545ef8de2408</guid>
+            <pubDate>Mon, 29 Feb 2016 13:28:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="http://a133.idata.over-blog.com/198x300/4/50/85/79/dyn003_original_295_445_pjpeg_2543096_06d164e5292248503cfd0.jpg">]]></description>
-            <link>undefinedb2447f9c-2607-440c-b3b5-9dad25b79f37/index.html</link>
+            <link>https://thegrid.ai/nostalgie/b2447f9c-2607-440c-b3b5-9dad25b79f37/index.html</link>
             <guid isPermaLink="false">b2447f9c-2607-440c-b3b5-9dad25b79f37</guid>
             <pubDate>Mon, 29 Feb 2016 13:28:08 GMT</pubDate>
         </item>
