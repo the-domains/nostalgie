@@ -1,28 +1,18 @@
-name: Nostalgie
-favicon: null
-layout_spectrum: 0.75325
-typography_spectrum: 1
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
-    - '#fcfcfc'
-    - '#2c1205'
-    - '#f8d31c'
-    - '#7d5e17'
-    - '#a1883a'
+    - '#B8C8C8'
+    - '#5D2828'
+    - '#688098'
+    - '#703030'
+    - '#000000'
   brandStrength: 0
   lightness: 0.4375
-  saturation: 0.3125
   rhythmicContrast: 0.75
+  saturation: 0.3125
+cta: {}
+layout_spectrum: 0.75325
+name: Nostalgie
+opengraph: {}
 purpose: []
+typography_spectrum: 1
