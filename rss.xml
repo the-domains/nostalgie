@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Nostalgie]]></title>
+        <description><![CDATA[Nostalgie]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 29 Feb 2016 13:28:14 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://a133.idata.over-blog.com/198x300/4/50/85/79/dyn003_original_295_445_pjpeg_2543096_06d164e5292248503cfd0.jpg">]]></description>
+            <link>undefinedb2447f9c-2607-440c-b3b5-9dad25b79f37/index.html</link>
+            <guid isPermaLink="false">b2447f9c-2607-440c-b3b5-9dad25b79f37</guid>
+            <pubDate>Mon, 29 Feb 2016 13:28:08 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
